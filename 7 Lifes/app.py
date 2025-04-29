@@ -1,7 +1,0 @@
-print("Line 1\n")
-print("Line 2\n")
-print("Line 3\n")
-print("Line 4\n")
-print("Line 5\n")
-print("Line 6\n")
-print("Line 7\n")
